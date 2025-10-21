@@ -1,0 +1,9 @@
+# Add to .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pdf
+node_modules/
+.next/
+build/
+dist/
