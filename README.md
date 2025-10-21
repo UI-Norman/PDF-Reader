@@ -77,7 +77,6 @@ A full-stack asynchronous PDF processing application with Redis Streams for queu
 │       ├── package-lock.json  
 │       └── package.json       
 ├── .env                       
-├── backend.zip
 ├── docker-compose.yml         
 ├── README.md                  
 └── requirements.txt           
