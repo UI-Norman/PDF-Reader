@@ -1,4 +1,4 @@
-# PDF Processing API
+# PDF Processing API/PDF Reader
 
 A full-stack asynchronous PDF processing application with Redis Streams for queue management, supporting multiple parsing engines (PyPDF and Google Gemini AI).
 
